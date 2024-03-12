@@ -2,6 +2,7 @@
   "name": "day2-react",
   "version": "1.0.0",
   "description": "Igniting our app Practicing",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "test": "jest",
     "start": "npx parcel index.html",
