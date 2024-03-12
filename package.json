@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Igniting our app Practicing",
   "scripts": {
+    "build": "CI= npm run build",
     "test": "jest",
     "start": "npx parcel index.html"
   },
