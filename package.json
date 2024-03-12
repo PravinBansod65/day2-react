@@ -1,0 +1,30 @@
+{
+  "name": "day2-react",
+  "version": "1.0.0",
+  "description": "Igniting our app Practicing",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentSK987/day2-react.git"
+  },
+  "author": "Silent-Coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentSK987/day2-react/issues"
+  },
+  "homepage": "https://github.com/silentSK987/day2-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}
