@@ -4,7 +4,8 @@
   "description": "Igniting our app Practicing",
   "scripts": {
     "test": "jest",
-    "start": "npx parcel index.html"
+    "start": "npx parcel index.html",
+    "build":"parcel build"
   },
   "repository": {
     "type": "git",
